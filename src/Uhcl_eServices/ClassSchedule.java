@@ -14,7 +14,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author sande
+ * @author Sandeep Sagar Muralidhar
  */
 public class ClassSchedule {
      private String studetnId;

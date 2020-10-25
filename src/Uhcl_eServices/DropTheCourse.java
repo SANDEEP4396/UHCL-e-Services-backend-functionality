@@ -14,7 +14,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author sande
+ * @author Sandeep Sagar Muralidhar
  */
 public class DropTheCourse {
     private String studetnId;

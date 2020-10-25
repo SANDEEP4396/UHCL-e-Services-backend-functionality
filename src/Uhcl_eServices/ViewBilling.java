@@ -13,7 +13,7 @@ import java.sql.Statement;
 
 /**
  *
- * @author sande
+ * @author Sandeep Sagar Muralidhar
  */
 public class ViewBilling {
     
