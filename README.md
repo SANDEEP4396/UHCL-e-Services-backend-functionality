@@ -2,6 +2,8 @@
 
 ## UHCL eService System is an application letting students and faculties manage their course works.
 
+## Functions implemented for students 
+
 ### Login
 Student can login their eService account.After login, students are given several options. 
 
@@ -17,7 +19,7 @@ After a student’s class schedule is displayed, the student can select a course
 ### View the bill 
 A student can use this option to see billing information of his/her registered courses. The billing information contains tuitions and fees. The formula is $1000 * number of courses enrolled. 
 
-## Functions implemented for faculties: 
+## Functions implemented for faculties 
 
 ### Login – Faculty can login their eService account. 
 After login, a teaching schedule of the faculty is displayed. The faculty can select a course to view its info. A course’s information includes course ID and title, instructor info, class time, class capacity, number of students enrolled, and status. Also, the names of the students enrolled into the course are displayed. 
